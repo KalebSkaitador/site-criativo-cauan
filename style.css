@@ -75,3 +75,16 @@
     display: grid;
     grid-auto-columns: 25% 25% 25% 25%;
 }
+
+.rodape{ 
+    background-color: #ff0000;
+    text-align: center;
+}
+
+.rodape-texto{
+   color: rgb(0, 0, 0);
+    font-size: 32px;
+    padding: 12px 0;
+}
+
+
